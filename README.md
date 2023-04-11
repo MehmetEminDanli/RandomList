@@ -1,1 +1,2 @@
-# RANDOM-L-ST
+# RandomList
+Random Liste oluşturma uygulaması
